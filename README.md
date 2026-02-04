@@ -76,7 +76,7 @@ Votre mission (si vous l'acceptez) : Créez une **image applicative customisée 
 Séquence 4 : Documentation  
 Difficulté : Facile (~30 minutes)
 ---------------------------------------------------
-Complétez et documentez ce fichier README.md pour nous expliquer comment utiliser votre solution.  
+**Complétez et documentez ce fichier README.md** pour nous expliquer comment utiliser votre solution.  
 Faites preuve de pédagogie et soyez clair dans vos expliquations et processus de travail.  
    
 ---------------------------------------------------
