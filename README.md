@@ -231,26 +231,25 @@ Faites preuve de pédagogie et soyez clair dans vos explications et procedures d
 **Exercice 1 :**  
 Quels sont les composants dont la perte entraîne une perte de données ?  
   
-*..Répondez à cet exercice ici..*
+Le PV et ses stoackages sous jacents
 
 **Exercice 2 :**  
 Expliquez nous pourquoi nous n'avons pas perdu les données lors de la supression du PVC pra-data  
   
-*..Répondez à cet exercice ici..*
-
+Le PVC est une requete mais le PV est le stockage 
 **Exercice 3 :**  
 Quels sont les RTO et RPO de cette solution ?  
   
-*..Répondez à cet exercice ici..*
+RTO de quelques secondes
+RPO = aucune perte
 
 **Exercice 4 :**  
 Pourquoi cette solution (cet atelier) ne peux pas être utilisé dans un vrai environnement de production ? Que manque-t-il ?   
   
-*..Répondez à cet exercice ici..*
-  
+Pas d'authentification, de noeuds résilients, de chiffrement, de sauvegarde et d'historique
 **Exercice 5 :**  
 Proposez une archtecture plus robuste.   
-  
+  Sauvegarde des données et historisations, séparation de la base de données, mise en place de haute disponibilité à l'aide de noeuds
 *..Répondez à cet exercice ici..*
 
 ---------------------------------------------------
